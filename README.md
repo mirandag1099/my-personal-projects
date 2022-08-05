@@ -1,4 +1,4 @@
-# Mincer-Equation-Python
+# Edmundo Miranda - Portfolio
 Mincer Equation using OLS method.
 
 After months of taking courses to learn Python, I finally decided to start my own project for data analysis/data science.
